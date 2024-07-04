@@ -7,6 +7,9 @@
       <h3>
         <slot name="heading"></slot>
       </h3>
+      <p>
+        This is a welcome item. You can use it to display a welcome message
+      </p>
       <slot></slot>
     </div>
   </div>
